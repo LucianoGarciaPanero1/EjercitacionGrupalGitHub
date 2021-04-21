@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola! Ya no soy la prueba B
+=======
+Conflicto 2
+>>>>>>> cc39d04c13c3208e3a9b6bf3f961d7c030652ca9
